@@ -847,8 +847,6 @@ const HomePage = ({ onNavigate }: HomePageProps) => {
         }
       `}</style>
 
-      <div className="version-badge">v7</div>
-
       <header className="relative min-h-screen flex flex-col items-center justify-start overflow-hidden pt-40 pb-20">
         <div className="relative z-10 max-w-5xl px-8 text-center flex flex-col items-center">
           <h1 className="font-headline text-6xl md:text-8xl text-[#453a2a] leading-[1.05] tracking-tight mb-8">
